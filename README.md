@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, welcome to Emmanuel Nwaije Ikemefuna known as Emmanation Designs portfolio website, you can view my project and even hire me as a freelancer for your graphic designings and software development projects 
 
 <!--
 **Emmanation-Designs/Emmanation-designs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
