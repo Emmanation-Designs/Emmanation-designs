@@ -412,7 +412,7 @@ nav .fas {
 /* css small screen */
 @media (max-width: 600px) {
   #header {
-    background-image: url(bg2a.jpg);
+    background-image: url(bg2a.png);
   }
 
   .header-text {
