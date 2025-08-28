@@ -354,14 +354,6 @@ nav ul li a:hover::after {
   transform: translate(-5px);
 
 }
-p a {
-    color: #000000; /* Black text like normal text */
-    text-decoration: none; /* Remove underline from link */
-    background-color: #ffffff; /* White background */
-    padding: 5px 10px; /* Add some padding for spacing */
-    display: inline-block; /* Ensure padding and background apply correctly */
-}
-
 /* Target the contact paragraph and link */
 #contact p a {
     color: #000000; /* Black text to match normal text */
@@ -371,23 +363,6 @@ p a {
     display: inline-block; /* Ensure padding and background apply correctly */
     border-radius: 5px; /* Optional: for a slightly rounded look */
 }
-
-#contact p a i {
-    margin-right: 8px; /* Space between icon and text */
-    color: #000000; /* Match icon color to text */
-}
-
-#contact p {
-    background-color: #ffffff; /* White background for the paragraph */
-    padding: 10px; /* Optional: Add padding to match the second image */
-    margin: 0; /* Remove default margin if needed */
-}
-
-p {
-    background-color: #ffffff; /* White background for the paragraph */
-    padding: 10px; /* Optional: Add padding to match the second image */
-  }
-
 .btn.btn2 {
   display: inline-block;
   background-color: #BF8C39;
