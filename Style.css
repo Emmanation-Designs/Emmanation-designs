@@ -354,15 +354,6 @@ nav ul li a:hover::after {
   transform: translate(-5px);
 
 }
-/* Target the contact paragraph and link */
-#contact p a {
-    color: #000000; /* Black text to match normal text */
-    text-decoration: none; /* Remove underline from link */
-    background-color: #ffffff; /* White background */
-    padding: 10px 15px; /* Adjust padding to match the second image */
-    display: inline-block; /* Ensure padding and background apply correctly */
-    border-radius: 5px; /* Optional: for a slightly rounded look */
-}
 .btn.btn2 {
   display: inline-block;
   background-color: #BF8C39;
