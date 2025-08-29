@@ -370,9 +370,9 @@ nav ul li a:hover::after {
 
 }
 .contact-left p a[href="tel:+2349038418469"] {
-    color: #01001F; /* Blue text to match normal text */
+    color: #ffffff; /* Blue text to match normal text */
     text-decoration: none; /* Remove underline from link */
-    background-color: #ffffff; /* White background */
+    background-color: #01001F; /* White background */
     padding: 10px 15px; /* Adjust padding to match the second image */
     display: inline-block; /* Ensure padding and background apply correctly */
     border-radius: 5px; /* Optional: for a slightly rounded look */
