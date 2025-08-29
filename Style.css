@@ -369,7 +369,7 @@ nav ul li a:hover::after {
   width: 100%;
 
 }
-2#contact p a[href="tel:+2349038418469"] {
+#contact p a[href="tel:+2349038418469"] {
     color: #000000; /* Black text to match normal text */
     text-decoration: none; /* Remove underline from link */
     background-color: #ffffff; /* White background */
