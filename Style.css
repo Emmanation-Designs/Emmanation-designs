@@ -369,7 +369,19 @@ nav ul li a:hover::after {
   width: 100%;
 
 }
+2#contact p a[href="tel:+2349038418469"] {
+    color: #000000; /* Black text to match normal text */
+    text-decoration: none; /* Remove underline from link */
+    background-color: #ffffff; /* White background */
+    padding: 10px 15px; /* Adjust padding to match the second image */
+    display: inline-block; /* Ensure padding and background apply correctly */
+    border-radius: 5px; /* Optional: for a slightly rounded look */
+}
 
+#contact p a[href="tel:+2349038418469"] i {
+    margin-right: 8px; /* Space between icon and text */
+    color: #000000; /* Match icon color to text */
+  }
 form input,
 form textarea {
   width: 100%;
